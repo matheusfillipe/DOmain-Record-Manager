@@ -1,0 +1,9 @@
+DOMAIN="example.com"
+TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+IP=xxxx.xxxxx.xxxxx
+# A records to create with ./create.sh
+SUBS=(
+    "sub1.example.com"
+    "sub2.example.com"
+    "sub3.example.com"
+)
